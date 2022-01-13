@@ -1,0 +1,2 @@
+This is a file I created to learn git
+Second line 
