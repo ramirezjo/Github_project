@@ -1,5 +1,6 @@
 This is a file I created to learn git
 Second line 
+Third line
 I am editing this file to test the branchbranch. 
 The file1 in master should be unchanged before merging.
 Another line added from github
